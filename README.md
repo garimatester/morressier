@@ -9,7 +9,7 @@ slf4j-log4j12(logging)
 
 ## run
 #### 
-navigate to project directory ./Morressier.qa
+navigate to project directory ./Morressier
 
 #### Prerequisites
 java1.8 is used for compilation
